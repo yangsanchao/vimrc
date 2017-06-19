@@ -1,5 +1,4 @@
 # vimrc
-my vimrc
 this is my vimrc 
 - how to use?
 
